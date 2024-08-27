@@ -1,0 +1,13 @@
+set up Reactjs
+set up Docker - DockerFile, docker compose
+set up Firebase
+Get Authentication and Database
+Create a Logo on Photoshop
+Create Login/SignUp Page - preferrably one 
+Create Landing Page that may include
+-Header - Title and Navbar - (Cart, Account)
+-Article - Title, Tagline, Searchbar
+-Section - Category List
+-Section - On Sale Items, Scrollable window 
+-Section - Items on display 
+-Footer - General info, emails, telephone numbers, address
