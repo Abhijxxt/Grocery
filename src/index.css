@@ -1,0 +1,11 @@
+:root {
+    --jungleGreen: #21A179;
+    --CambridgeGreen: #81AE9D;
+    --HunyadiYellow: #E09F3E;
+    --RaisinBlack: #1E1E24;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
