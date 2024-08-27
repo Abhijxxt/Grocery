@@ -5,7 +5,7 @@ Get Authentication and Database
 Create a Logo on Photoshop
 Create Login/SignUp Page - preferrably one 
 Create Landing Page that may include
--Header - Title and Navbar - (Cart, Account)
+-Header - Title and Navbar - (Cart, Account - (Profile, Log Out))
 -Article - Title, Tagline, Searchbar
 -Section - Category List
 -Section - On Sale Items, Scrollable window 
